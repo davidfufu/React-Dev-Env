@@ -1,1 +1,5 @@
-# ReactJS-Dev-Env-Hotloading-with-React
+
+## Try it out
+```
+npm run dev
+```
